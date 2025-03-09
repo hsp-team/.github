@@ -1,1 +1,1 @@
-![img.png](img.png)
+<img src="img.png" alt="ХШП" width="800" />
